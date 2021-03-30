@@ -4,12 +4,12 @@ information about  Rhett Prince
 
 #Hi, I am rhett Prince
 
-welcome tomy home repo. 
+welcome to my home repo. 
 this repo lets people know about me. 
 
 Since March of 2020, I have been coding in Python and lerning Data Science type problem solutions. 
-I have used two basic types of problems totarget my learning. 
-First, I used python to study Information retrieva , as I learned in grad school in 2004. 
+I have used two basic types of problems to target my learning. 
+First, I used python to study Information retrieval , as I learned in grad school in 2004. 
 I coded my C# based search engine in python.
 
 Next,
