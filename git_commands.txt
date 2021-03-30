@@ -1,0 +1,17 @@
+git commands 
+name of repo 
+rhett-prince
+
+
+main branch 
+branch: main
+
+https://github.com/rhettprince/rhett-prince.git
+
+git clone https://github.com/rhettprince/rhett-prince.git
+
+
+
+
+
+

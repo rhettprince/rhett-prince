@@ -1,0 +1,11 @@
+
+name of repo 
+https://github.com/rhettprince/RhettPrince-.git
+
+
+https://github.com/rhettprince/RhettPrince-.git
+
+
+git remote add my_awesome_new_remote_repo git@git.assembla.com:portfolio/space.space_name.git
+
+
